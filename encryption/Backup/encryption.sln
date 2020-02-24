@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "encryption", "encryption.csproj", "{A7A322CC-C495-48EE-9794-7598ABF63E1D}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A7A322CC-C495-48EE-9794-7598ABF63E1D}.Debug.ActiveCfg = Debug|.NET
+		{A7A322CC-C495-48EE-9794-7598ABF63E1D}.Debug.Build.0 = Debug|.NET
+		{A7A322CC-C495-48EE-9794-7598ABF63E1D}.Release.ActiveCfg = Release|.NET
+		{A7A322CC-C495-48EE-9794-7598ABF63E1D}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
